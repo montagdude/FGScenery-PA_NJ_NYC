@@ -26,7 +26,7 @@ For the best experience, if your computer can handle it, turn on OSM buildings a
 Screenshots
 ================================================================================
 
-![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/screenshots/c182-atlantic-city.png)
+![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/screenshots/c182s-atlantic-city.png)
 Atlantic City, NJ
 
 ![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/screenshots/dr400-philadelphia.png)
@@ -36,4 +36,4 @@ Philadelphia, PA
 Manhattan, NYC
 
 ![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/screenshots/pa28-wilkes-barre.png)
-Wilkes-Barre, pA
+Wilkes-Barre, PA
