@@ -1,0 +1,5 @@
+Block lies on SOUTH WEST EAST boundary
+-75.625 39.625
+-75.625 38.875
+-74 38.875
+-74 39.625
