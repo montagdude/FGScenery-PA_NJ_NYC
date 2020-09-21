@@ -26,6 +26,9 @@ For the best experience, if your computer can handle it, turn on OSM buildings a
 Screenshots
 ================================================================================
 
+![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/area_covered.png)
+Area covered by this scenery
+
 ![alt tag](https://raw.githubusercontent.com/montagdude/FGScenery-PA_NJ_NYC/master/screenshots/c182s-atlantic-city.png)
 Atlantic City, NJ
 
